@@ -21,8 +21,9 @@ Or install it yourself as:
     $ gem install portfolio_copyright_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+    ```ruby
+    PortfolioCopyrightTool::Renderer.copyright 'Lalit Yadav', 'All rights reserved'
+    ```
 
 ## Development
 
